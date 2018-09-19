@@ -1,4 +1,5 @@
 <img src="https://raw.githubusercontent.com/marto-nieto-g16/QRCreator/master/QRCreator.png" />
+
 # QRCreator
 Esta aplicación permitirá codificar un texto introducido por teclado por el usuario,
 especificar las dimensiones del mismo, generar el código QR y tener la posibilidad de 
