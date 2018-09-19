@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/marto-nieto-g16/QRCreator/master/QRCreator.png" />
 # QRCreator
 Esta aplicación permitirá codificar un texto introducido por teclado por el usuario,
 especificar las dimensiones del mismo, generar el código QR y tener la posibilidad de 
@@ -13,4 +14,4 @@ o un código de barras bidimensional creado en 1994 por la compañía japonesa D
 1. Librerías ZXing (core-2.3.0.jar y zxing-j2se-1.7.jar)
 2. Java
 
-<img src="URL_DE_LA_IMAGEN" />
+
