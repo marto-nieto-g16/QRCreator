@@ -14,5 +14,4 @@ o un código de barras bidimensional creado en 1994 por la compañía japonesa D
 # Requisitos
 1. Librerías ZXing (core-2.3.0.jar y zxing-j2se-1.7.jar)
 2. Java
-
-
+3. IDE Netbeans 7 o superior
